@@ -333,7 +333,7 @@ void CCurrentSettings::Reset(void)
 	folder_color = 0;
 	auto_rescan = 0;
 	animated_zoom = 1;
-	disable_delete = 0;
+	disable_delete = 1;
 	bias = 0;
 	show_name_tips = 1;
 	nametip_delay = 125;
